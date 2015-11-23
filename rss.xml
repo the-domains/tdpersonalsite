@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TDPersonalSite]]></title>
-        <description><![CDATA[TDPersonalSite]]></description>
+        <title><![CDATA[This is a title for the site]]></title>
+        <description><![CDATA[This is a title for the site]]></description>
         <link>https://thegrid.ai/tdpersonalsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 17:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 17:24:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tdpersonalsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lazy Title]]></title>
             <description><![CDATA[<article><h1>Lazy Title</h1><p>many of the people involved in the development of the site are asleep.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/003abaf9-eea3-4d85-b105-ef1eca834558.jpg"></article>]]></description>
             <link>https://thegrid.ai/tdpersonalsite/538fe88a-dd8f-4805-b81b-b955f9cb3a0b/index.html</link>
             <guid isPermaLink="false">538fe88a-dd8f-4805-b81b-b955f9cb3a0b</guid>
-            <pubDate>Mon, 23 Nov 2015 17:20:41 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2015 17:23:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

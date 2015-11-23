@@ -1,0 +1,28 @@
+name: TDPersonalSite
+favicon: null
+layout_spectrum: 0.3201726374682039
+typography_spectrum: 0.12496076873503625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1687134641688317
+  lightness: 0.2931411473546177
+  saturation: 0.863858022261411
+  rhythmicContrast: 0.9682656358927488
+purpose: []
